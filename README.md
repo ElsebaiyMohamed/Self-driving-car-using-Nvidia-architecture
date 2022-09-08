@@ -8,5 +8,6 @@ Train the model on labeled dataset (image and the steering angle in this situati
 
 ---
 Our model based on Nvidia architecture 
-paper link | https://developer.nvidia.com/blog/deep-learning-self-driving-cars/
+
+  paper link | https://developer.nvidia.com/blog/deep-learning-self-driving-cars/
 
